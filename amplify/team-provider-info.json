@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-serverlessipizza-dev-152432-authRole",
+      "UnauthRoleArn": "arn:aws:iam::005048618613:role/amplify-serverlessipizza-dev-152432-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::005048618613:role/amplify-serverlessipizza-dev-152432-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-serverlessipizza-dev-152432-deployment",
+      "UnauthRoleName": "amplify-serverlessipizza-dev-152432-unauthRole",
+      "StackName": "amplify-serverlessipizza-dev-152432",
+      "StackId": "arn:aws:cloudformation:us-east-1:005048618613:stack/amplify-serverlessipizza-dev-152432/cea66ab0-3de5-11eb-9098-0e14a19417fd",
+      "AmplifyAppId": "d1blx1i2iz4b7z"
+    }
+  }
+}
